@@ -1,0 +1,10 @@
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\bin\Debug\Практика15.4.exe.config
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\bin\Debug\Практика15.4.exe
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\bin\Debug\Практика15.4.pdb
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\obj\Debug\Практика15.4.csprojAssemblyReference.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\obj\Debug\Практика15._4.Form1.resources
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\obj\Debug\Практика15._4.Properties.Resources.resources
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\obj\Debug\Практика15.4.csproj.GenerateResource.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\obj\Debug\Практика15.4.csproj.CoreCompileInputs.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\obj\Debug\Практика15.4.exe
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Практика15.4\Практика15.4\obj\Debug\Практика15.4.pdb
