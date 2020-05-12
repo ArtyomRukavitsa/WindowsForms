@@ -27,6 +27,8 @@ namespace Практика15._3
         private void Form1_Load(object sender, EventArgs e) 
         {
             button1.Text = "НАЖМИ МЕНЯ";
+            MaximizeBox = false;
+            Text = "Без окошка Свойства";
         }
     }
 }
