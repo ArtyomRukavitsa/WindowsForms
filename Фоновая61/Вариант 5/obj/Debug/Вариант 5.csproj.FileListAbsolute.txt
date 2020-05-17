@@ -1,0 +1,10 @@
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\bin\Debug\Вариант 5.exe.config
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\bin\Debug\Вариант 5.exe
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\bin\Debug\Вариант 5.pdb
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\obj\Debug\Вариант 5.csprojAssemblyReference.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\obj\Debug\Вариант_5.Form1.resources
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\obj\Debug\Вариант_5.Properties.Resources.resources
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\obj\Debug\Вариант 5.csproj.GenerateResource.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\obj\Debug\Вариант 5.csproj.CoreCompileInputs.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\obj\Debug\Вариант 5.exe
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Фоновая\Фоновая61\Вариант 5\obj\Debug\Вариант 5.pdb
