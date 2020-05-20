@@ -1,0 +1,10 @@
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\bin\Debug\Практика17.exe.config
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\bin\Debug\Практика17.exe
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\bin\Debug\Практика17.pdb
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\obj\Debug\Практика17.csprojAssemblyReference.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\obj\Debug\Практика17.Form1.resources
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\obj\Debug\Практика17.Properties.Resources.resources
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\obj\Debug\Практика17.csproj.GenerateResource.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\obj\Debug\Практика17.csproj.CoreCompileInputs.cache
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\obj\Debug\Практика17.exe
+C:\Users\AcerUser\Desktop\Артем\9 класс\!Практика\Вариант 5\Практика17\obj\Debug\Практика17.pdb
